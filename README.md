@@ -5,10 +5,14 @@
 ## Informações Gerais
 Nome: Daniel Gomes Pereira
 Matricula: 894057
+Nome: Daniel Gomes Pereira
+Matricula: 894057
 
 ## Tela de inspeção com navegador
-![inspecionar](../inspecionar.png)
+![inspecionar](../inspecionar.png)![alt text](image.png)
 
-## Tela de projeto no Replit
+
+## Tela de projeto no Replit!
+[alt text](image.png)
 
 ![replit](../replit.png)
