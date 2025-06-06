@@ -3,11 +3,12 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Daniel Gomes Pereira
+Matricula: 894057
 
 ## Tela de inspeção com navegador
-
+![inspecionar](../inspecionar.png)
 
 ## Tela de projeto no Replit
 
+![replit](../replit.png)
